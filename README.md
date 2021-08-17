@@ -16,3 +16,6 @@ Aayush ∞ Shah
 **Step 2**: Predict!
 
 Please make sure you are in the directory itself to avoid path errors.
+
+Tutorial:
+https://user-images.githubusercontent.com/83115948/129709065-e21b98c9-2446-40f8-bda3-cafdc1eecfea.mp4
